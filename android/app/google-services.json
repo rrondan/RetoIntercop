@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331049263660",
+    "firebase_url": "https://reto-intercorp-experis.firebaseio.com",
+    "project_id": "reto-intercorp-experis",
+    "storage_bucket": "reto-intercorp-experis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331049263660:android:71aa6bbc95f51687fbe789",
+        "android_client_info": {
+          "package_name": "com.rrondan.reto_intercorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331049263660-jf818n7g9flrauqnt1emjl09au9si4d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ySp_AIUcYdMdwbLFd7P5B0b7JxEF8cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331049263660-jf818n7g9flrauqnt1emjl09au9si4d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
